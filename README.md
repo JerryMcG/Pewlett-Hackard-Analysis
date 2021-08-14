@@ -24,11 +24,9 @@ However, in the first year of the 'silver tsunami' (those born in 1952), we can 
 
 *2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?*
 
-There are a total of 1549 employees eligible for the mentorship program. This is a very small number in comparison to upcoming vacancies. The breakdown below shows us which departments eligible mentors are in:
+There are a total of 1549 employees eligible for the mentorship program. This is a very small number in comparison to upcoming vacancies. The breakdown below compares total employees in each department with the Eligible Mentors per Department. On Average most departments have a Mentor to Employee ratio of 4%, however Marketing and HR departments have approx. 5% ratio which indicates that they have a slightly higher aging population than other departments. 
 
-<img src= "Resource/Mentor_Dept.png"/>
-
-Below shows the total number of current employees in the firm today:
-
-<img src= "Resource/totalEmp.png"/>
+|Total Current Employees By Dept | Total Eligible Mentors By Dept|
+|--------------------------------|---------------------------------|
+|<img src= "Resources/totalEmp.png"/>|<img src= "Resources/Mentor_Dept.png"/>|
 
