@@ -6,9 +6,12 @@ Pewlett Hackard are a large company who are aware of an aging employee populatio
 # Results
 * 1549 employees eligible for mentor program
 <img src = "Resources/MentorElig.png"/>
+
 * Senior Engineer job title has the highest count of retiring employees (29414)
+
 * Total of 43,636 Engineers are retirement eligible (Titles: Senior Engineer & Engineer)
 <img src = "Resources/TotalEngineers.png"/>
+
 * Many employees who are retiring have had multiple titles in their careers, indicating deep knowledge.
 
 # Summary: 
